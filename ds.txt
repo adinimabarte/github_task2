@@ -1,0 +1,8 @@
+Important topics in Data structure
+1.Array
+2.linked list 
+3.Stack
+4.Queue
+5.Tree
+6.Hash Table
+7.Graph
